@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:l width:80 height:80 hit_points:1 fill-1:image(block_images/java.jpg)
+
+# spacers definitions
+sdef symbol:- width:30
